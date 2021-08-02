@@ -1,1 +1,1 @@
-# todo_list
+# JS todo app with bootstrap
